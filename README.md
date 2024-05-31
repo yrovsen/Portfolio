@@ -21,12 +21,19 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 
 
 
-### [Project 2: Data Visualization](https://github.com/yourusername/project2)
-**Description:** Created interactive visualizations to explore and analyze a dataset of customer transactions.
+### [Project 2: Life Expectancy Regression Models](https://github.com/yrovsen/life_expectancy)
+**Description:** This project aims to predict life expectancy using advanced regression models, emphasizing practical deployment strategies and scalability to provide actionable insights into factors influencing life expectancy globally.
 **Highlights:**
-- Used Plotly for interactive visualizations.
-- Analyzed customer purchasing patterns and trends.
-- Presented findings in a Jupyter Notebook.
+- Utilized advanced regression techniques for predictive modeling.
+- Conducted thorough preprocessing and feature selection to enhance model accuracy.
+- Demonstrates model evaluation using various metrics to identify the best-performing model.
+
+  ![image](https://github.com/yrovsen/Portfolio/assets/137065696/4452367d-4dc7-4945-9d90-e01f8e6db7b6)
+
+- Chosen XGBoost tuned model, scores given below:
+
+![image](https://github.com/yrovsen/Portfolio/assets/137065696/3ff93106-0cb6-4598-b6be-83dcde6f402a)
+
 
 ### [Project 3: Natural Language Processing](https://github.com/yourusername/project3)
 **Description:** Developed a sentiment analysis model to classify customer reviews as positive or negative.
