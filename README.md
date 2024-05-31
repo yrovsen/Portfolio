@@ -36,12 +36,17 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 ![image](https://github.com/yrovsen/Portfolio/assets/137065696/3ff93106-0cb6-4598-b6be-83dcde6f402a)
 
 
-### [Project 3: Natural Language Processing](https://github.com/yourusername/project3)
-**Description:** Developed a sentiment analysis model to classify customer reviews as positive or negative.
+### [Project 3: Applying Cluster Methods](https://github.com/yrovsen/cluster_model)
+**Description:** This project explores the application of clustering algorithms to uncover patterns and structures within datasets, enhancing decision-making processes.
 **Highlights:**
-- Preprocessed text data using NLTK.
-- Trained a logistic regression model with a TF-IDF vectorizer.
-- Achieved an accuracy of 88% on the validation set.
+- Determined optimal number of clusters using elbow method and silhouette scores.
+- Implemented Agglomerative Clustering to create hierarchical clusters.
+- Visualized clustering results using dendrograms and evaluated clusters with silhouette score.
+- The Elbow and Agglomerative Clustering methods have been plotted respectively as follows:
+
+<img src="https://github.com/yrovsen/Portfolio/assets/137065696/30dc0fd0-6c4b-46fe-b560-ba07b2005c7a" alt="Alt text" width="400" height="400"> 
+<img src="https://github.com/yrovsen/Portfolio/assets/137065696/60a72602-1cbc-43e0-9de9-bbf99baf0c53" alt="Alt text" width="600" height="400">
+
 
 
 
