@@ -4,12 +4,18 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 
 ## Projects
 
-### [Project 1: Predictive Modeling](https://github.com/yourusername/project1)
-**Description:** This project involves building a predictive model to forecast sales using various machine learning algorithms.
+### [Project 4: Predicting Credit Card Defaults](https://github.com/yrovsen/default_credit_card)
+**Description:** This project focuses on predicting credit card defaults using various classification models. The goal is to determine whether a client will default on their credit card payment based on a set of features. The project covers data preprocessing, model selection, optimization, and evaluation.
 **Highlights:**
-- Implemented linear regression, decision trees, and random forests.
-- Achieved an R^2 score of 0.85 on the test data.
-- Visualized the results using Matplotlib and Seaborn.
+- Demonstrates effective preprocessing techniques and model selection.
+- Fine-tuned the CatBoost model for improved accuracy 82%.
+- High Gini score obtained 54%.
+- Evaluated model performance using ROC-AUC and precision-recall curves given below:
+### ROC Curve
+![ROC Curve](![image](https://github.com/yrovsen/Portfolio/assets/137065696/c830429c-188d-4f06-9d85-ed18a256279f))
+
+### Precision-Recall Curve
+![Precision-Recall Curve](![image](https://github.com/yrovsen/Portfolio/assets/137065696/268160e6-e1b8-4db7-b57e-41293ab3e4d2))
 
 ### [Project 2: Data Visualization](https://github.com/yourusername/project2)
 **Description:** Created interactive visualizations to explore and analyze a dataset of customer transactions.
@@ -25,12 +31,7 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 - Trained a logistic regression model with a TF-IDF vectorizer.
 - Achieved an accuracy of 88% on the validation set.
 
-### [Project 4: Predicting Credit Card Defaults](https://github.com/yourusername/credit-card-defaults)
-**Description:** This project focuses on predicting credit card defaults using various classification models. The goal is to determine whether a client will default on their credit card payment based on a set of features. The project covers data preprocessing, model selection, optimization, and evaluation.
-**Highlights:**
-- Demonstrates effective preprocessing techniques and model selection.
-- Fine-tuned the CatBoost model for improved accuracy.
-- Evaluated model performance using ROC-AUC and precision-recall curves.
+
 
 ## About Me
 
