@@ -12,7 +12,7 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 - High Gini score obtained 54%.
 - Evaluated model performance using ROC-AUC and precision-recall curves given below:
 ### ROC Curve
-<img src="![image](https://github.com/yrovsen/Portfolio/assets/137065696/279d8412-c1bf-4ad0-bd0f-86bf0e52f02f)" alt="Alt text" width="600" height="400">
+<img src="https://github.com/yrovsen/Portfolio/raw/main/assets/137065696/279d8412-c1bf-4ad0-bd0f-86bf0e52f02f.png" alt="Alt text" width="600" height="400">
 
 ### Precision-Recall Curve
 ![Precision-Recall Curve](![image](https://github.com/yrovsen/Portfolio/assets/137065696/268160e6-e1b8-4db7-b57e-41293ab3e4d2))
