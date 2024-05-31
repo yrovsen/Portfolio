@@ -1,5 +1,3 @@
-# Portfolio Overview
-
 # My Data Science Portfolio
 
 Welcome to my data science portfolio! Here you can find a collection of my data science projects, each showcasing my skills and expertise in various areas.
