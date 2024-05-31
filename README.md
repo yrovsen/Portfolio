@@ -12,13 +12,10 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 - High Gini score obtained 54%.
 - Evaluated model performance using ROC-AUC and precision-recall curves given below:
 ### ROC Curve
-![Alt text](path/to/your/image.jpg)
-<img src="path/to/your/image.jpg" width="100" height="50">
 <img src="https://github.com/yrovsen/Portfolio/assets/137065696/115b08e5-c657-43cc-87b9-e466482b6d05" alt="Alt text" width="600" height="400">
 
 ### Precision-Recall Curve
-![Precision-Recall Curve](![image](https://github.com/yrovsen/Portfolio/assets/137065696/268160e6-e1b8-4db7-b57e-41293ab3e4d2))
-![image](https://github.com/yrovsen/Portfolio/assets/137065696/d8e04caa-aee2-406e-8f1d-804f495d2a23)
+![Precision-Recall Curve](https://github.com/yrovsen/Portfolio/assets/137065696/268160e6-e1b8-4db7-b57e-41293ab3e4d2)
 
 ### [Project 2: Data Visualization](https://github.com/yourusername/project2)
 **Description:** Created interactive visualizations to explore and analyze a dataset of customer transactions.
