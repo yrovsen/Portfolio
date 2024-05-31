@@ -28,7 +28,8 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 - Conducted thorough preprocessing and feature selection to enhance model accuracy.
 - Demonstrates model evaluation using various metrics to identify the best-performing model.
 
-  ![image](https://github.com/yrovsen/Portfolio/assets/137065696/4452367d-4dc7-4945-9d90-e01f8e6db7b6)
+![image](https://github.com/yrovsen/Portfolio/assets/137065696/4800f10d-fa40-4628-85e7-cbd8e06f07eb)
+
 
 - Chosen XGBoost tuned model, scores given below:
 
