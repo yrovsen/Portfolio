@@ -16,6 +16,7 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 
 ### Precision-Recall Curve
 ![Precision-Recall Curve](![image](https://github.com/yrovsen/Portfolio/assets/137065696/268160e6-e1b8-4db7-b57e-41293ab3e4d2))
+![image](https://github.com/yrovsen/Portfolio/assets/137065696/d8e04caa-aee2-406e-8f1d-804f495d2a23)
 
 ### [Project 2: Data Visualization](https://github.com/yourusername/project2)
 **Description:** Created interactive visualizations to explore and analyze a dataset of customer transactions.
