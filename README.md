@@ -1,34 +1,39 @@
 # Portfolio Overview
 
-# Default Credit Card Clients Prediction
+# My Data Science Portfolio
 
-## Overview
-This project focuses on predicting credit card defaults using various classification models. The objective is to classify whether a client will default on their credit card payment based on a set of features. The project involves several key steps, including data import, preprocessing, model building, and optimization.
+Welcome to my data science portfolio! Here you can find a collection of my data science projects, each showcasing my skills and expertise in various areas.
 
-## Key Steps
-- **Data Import**: Data is imported and cleaned to prepare it for modeling.
-- **Preprocessing**: Includes handling missing values, encoding categorical variables, and scaling numerical features.
-- **Model Building**: Several classification models are trained, including decision trees, random forests, SVM, and CatBoost.
-- **Model Evaluation**: Models are evaluated using metrics like accuracy, precision, recall, and ROC-AUC curve.
-- **Optimization**: The CatBoost model is fine-tuned for improved performance.
-- **Feature Importance**: Univariate analysis is used to identify and prioritize important features.
+## Projects
 
-## Results
-The project demonstrates the effectiveness of combining multiple preprocessing and modeling techniques to improve classification accuracy. The CatBoost model, after tuning, emerged as the best-performing model.
+### [Project 1: Predictive Modeling](https://github.com/yourusername/project1)
+**Description:** This project involves building a predictive model to forecast sales using various machine learning algorithms.
+**Highlights:**
+- Implemented linear regression, decision trees, and random forests.
+- Achieved an R^2 score of 0.85 on the test data.
+- Visualized the results using Matplotlib and Seaborn.
 
-## Visualizations
-- ROC & AUC Curve
-- Precision-Recall Trade-off Curve
+### [Project 2: Data Visualization](https://github.com/yourusername/project2)
+**Description:** Created interactive visualizations to explore and analyze a dataset of customer transactions.
+**Highlights:**
+- Used Plotly for interactive visualizations.
+- Analyzed customer purchasing patterns and trends.
+- Presented findings in a Jupyter Notebook.
 
-### ROC & AUC Curve
-![ROC Curve](images/roc_curve.png)
-Include your ROC curve image here.
+### [Project 3: Natural Language Processing](https://github.com/yourusername/project3)
+**Description:** Developed a sentiment analysis model to classify customer reviews as positive or negative.
+**Highlights:**
+- Preprocessed text data using NLTK.
+- Trained a logistic regression model with a TF-IDF vectorizer.
+- Achieved an accuracy of 88% on the validation set.
 
-### Precision-Recall Trade-off Curve
-![Precision-Recall Curve](images/pr_curve.png)
-Include your Precision-Recall curve image here.
+### [Project 4: Predicting Credit Card Defaults](https://github.com/yourusername/credit-card-defaults)
+**Description:** This project focuses on predicting credit card defaults using various classification models. The goal is to determine whether a client will default on their credit card payment based on a set of features. The project covers data preprocessing, model selection, optimization, and evaluation.
+**Highlights:**
+- Demonstrates effective preprocessing techniques and model selection.
+- Fine-tuned the CatBoost model for improved accuracy.
+- Evaluated model performance using ROC-AUC and precision-recall curves.
 
-## Conclusion
-In conclusion, the project successfully predicts credit card defaults with high accuracy using advanced classification techniques. Future work could explore ensemble methods or more robust feature engineering to further enhance model performance.
+## About Me
 
-
+I am a data scientist with a passion for turning data into actionable insights. I have experience in machine learning, data visualization, and natural language
