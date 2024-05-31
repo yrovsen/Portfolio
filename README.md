@@ -10,7 +10,7 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 - Demonstrates effective preprocessing techniques and model selection.
 - A few models have been trained and results given in terms of gini scores since dataset is imbalanced:\
 
-<img src="https://github.com/yrovsen/Portfolio/assets/137065696/9d242c7b-0e0d-4e82-aa58-75a91464233a">
+![image](https://github.com/yrovsen/Portfolio/assets/137065696/a79b88fa-59c8-469a-9716-77dc40529f21)
 
 - Fine-tuned the CatBoost model for improved accuracy 82%.
 - High Gini score obtained 54%.
