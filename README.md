@@ -52,4 +52,8 @@ Welcome to my data science portfolio! Here you can find a collection of my data 
 
 ## About Me
 
-I am a data scientist with a passion for turning data into actionable insights. I have experience in machine learning, data visualization, and natural language
+I am a data scientist with a passion for turning data into actionable insights. I have experience in machine learning, data visualization, and natural language processing. Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!
+
+[Contact Me](rovsen2802@gmail.com)
+
+---
